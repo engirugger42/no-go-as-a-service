@@ -1,2 +1,2 @@
 # no-go-as-a-service
-Shameless port of https://github.com/hotheadhacker/no-as-a-service to Go
+Shameless port of [No-as-a-Service](https://github.com/hotheadhacker/no-as-a-service) to .Go
